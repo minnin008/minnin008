@@ -1,5 +1,5 @@
-## Hi there 👋
-안녕하세요 저는 한신대학교 26학번 자유전공학부 김민진입니다.
+## Hi there 👋안녕하세요 저는 한신대학교 26학번 자유전공학부 김민진입니다.
+
 <!--
 **minnin008/minnin008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
